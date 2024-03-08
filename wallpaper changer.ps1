@@ -1,5 +1,5 @@
 # Setze den Bildlink
-$BildLink = "URL_DES_BILDES"
+$BildLink = "https://raw.githubusercontent.com/DukeDaxen/images/main/Screenshot%202024-03-08%20200246.png"
 
 # Setze den Speicherort für das temporäre Bild
 $TempBild = "$env:TEMP\hintergrundbild.jpg"
